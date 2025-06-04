@@ -1,0 +1,3 @@
+name: killglow
+version: '1.0-SNAPSHOT'
+main: newblock.killglow.Killglow
